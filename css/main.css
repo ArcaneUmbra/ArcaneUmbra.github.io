@@ -1,0 +1,25 @@
+body {
+	background-color: #595959;
+}
+
+.wrapper {
+	margin: auto;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 0px;
+	padding-bottom: 5px;
+	box-shadow: 10px 10px 5px #404040;
+	background-color: white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.head {
+	text-align: center;
+}
+
+.text_content {
+	margin: 25px;
+	padding: 5px;
+	background-color: #e6e6e6;
+
+}
