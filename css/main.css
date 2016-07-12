@@ -1,0 +1,19 @@
+/* Main css file */
+
+/* === Constant Page Style === */
+
+body {
+	background-color: #808080;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.nav_bar {
+	position: fixed;
+	top: 0px;
+	margin: auto;
+}
+
+.wrapper {
+	margin: auto;
+}
