@@ -16,6 +16,7 @@ div.nav_bar {
 
 .wrapper {
 	margin: auto;
+	width: 50%;
 }
 
 ul {
@@ -28,6 +29,35 @@ ul {
 
 .nav_item {
 	display: block;
+	height: 30px;
+	font-size: 1.5em;
 	float: left;
 	padding: 2px;
+	border: 1px solid white;
+}
+
+.nav_item a {
+	vertical-align: middle;
+	color: black;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.active {
+	background-color: green;
+	border: 1px solid black;
 }
